@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robotics (NA 568).
 
-[http://robots.engin.umich.edu/mobilerobotics/](url)
+[Mobile Robotics course link](http://robots.engin.umich.edu/mobilerobotics/)
 
-![/home/sid/Desktop/B_contender.png](src)
+![Our spirit animal](/home/sid/Desktop/B_contender.png)
 
 ### Markdown
 
