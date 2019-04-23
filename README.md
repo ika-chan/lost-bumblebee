@@ -37,7 +37,7 @@ Syntax highlighted code block
 ```
 
 ## Step-by-step Instructions
-1. Run Monocular Visual Odometry following instructions [here](/README_MVO.md)
+1. Run Monocular Visual Odometry following instructions [here](Monocular%20Visual%20Odometry/README_MVO.md)
 
 
 ### Jekyll Themes
