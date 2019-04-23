@@ -16,34 +16,18 @@ We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robot
 ### Course link:
 [Mobile Robotics](http://robots.engin.umich.edu/mobilerobotics/)
 
-### Markdown
+### Project Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our project aims to recreate the idea of incorporating semantic and geometric data association in a joint optimization framework as proposed by [Bowman et al.](https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf)
 
-```markdown
-Syntax highlighted code block
+For more details on our implementation, you can check [here]() for the proposal and [here]() for the final report.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-```
-
-## Step-by-step Instructions
-1. Run Monocular Visual Odometry following instructions [here](Monocular%20Visual%20Odometry/README_MVO.md)
+### Dependencies
+This project makes use of the following software packages:
 
 
-### Jekyll Themes
+### Step-by-step Instructions
+1. Run Monocular Visual Odometry following instructions [here](Monocular%20Visual%20Odometry/README_MVO.md).
+2. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ika-chan/lost-bumblebee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
