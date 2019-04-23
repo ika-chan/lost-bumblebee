@@ -9,7 +9,7 @@ We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robot
 ### Team members:
 - Peter Westra    (pwestra@umich.edu)
 - Dingyee Sun     (dysun@umich.edu)
-- Bo Xue          (xueyuyibo@umich.edu)
+- Bo Xue          (xuebo@umich.edu)
 - Kaiduo Fang     (fangkd@umich.edu)
 - Sidhartha Dey   (siddey@umich.edu)
 
