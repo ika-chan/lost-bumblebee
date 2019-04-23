@@ -2,13 +2,19 @@
 
 You can use the [editor on GitHub](https://github.com/ika-chan/lost-bumblebee/edit/master/README.md) to maintain and preview the content for your website in Markdown files. (Will delete soon)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. (Will delete soon)
-
 We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robotics (NA 568).
 
-[Mobile Robotics course link](http://robots.engin.umich.edu/mobilerobotics/)
-
 ![Our spirit animal](Webpage/B_contender.png)
+
+### Team members:
+- Peter Westra
+- Dingyee Sun
+- Bo Xue
+- Kaiduo Fang
+- Sidhartha Dey
+
+### Course link:
+[Mobile Robotics](http://robots.engin.umich.edu/mobilerobotics/)
 
 ### Markdown
 
@@ -28,11 +34,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[http://robots.engin.umich.edu/mobilerobotics/](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+'''
 
 ### Jekyll Themes
 
