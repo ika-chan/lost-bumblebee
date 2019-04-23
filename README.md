@@ -8,7 +8,7 @@ We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robot
 
 [Mobile Robotics course link](http://robots.engin.umich.edu/mobilerobotics/)
 
-![Our spirit animal](/home/sid/Desktop/B_contender.png)
+![Our spirit animal](Webpage/B_contender.png)
 
 ### Markdown
 
