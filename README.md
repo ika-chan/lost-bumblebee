@@ -7,11 +7,11 @@ We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robot
 ![Our spirit animal](Webpage/B_contender.png)
 
 ### Team members:
-- Peter Westra
-- Dingyee Sun
-- Bo Xue
-- Kaiduo Fang
-- Sidhartha Dey
+- Peter Westra    (pwestra@umich.edu)
+- Dingyee Sun     (dysun@umich.edu)
+- Bo Xue          (xueyuyibo@umich.edu)
+- Kaiduo Fang     (fangkd@umich.edu)
+- Sidhartha Dey   (siddey@umich.edu)
 
 ### Course link:
 [Mobile Robotics](http://robots.engin.umich.edu/mobilerobotics/)
@@ -34,7 +34,11 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-'''
+```
+
+## Step-by-step Instructions
+1. Run Monocular Visual Odometry following instructions [here](/README_MVO.md)
+
 
 ### Jekyll Themes
 
