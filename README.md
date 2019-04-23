@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robotics (NA 568).
 
+[http://robots.engin.umich.edu/mobilerobotics/](url)
+
+![/home/sid/Desktop/B_contender.png](src)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,7 +29,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[http://robots.engin.umich.edu/mobilerobotics/](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
