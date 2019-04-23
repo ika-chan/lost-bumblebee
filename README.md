@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to our project page!
 
-You can use the [editor on GitHub](https://github.com/ika-chan/lost-bumblebee/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/ika-chan/lost-bumblebee/edit/master/README.md) to maintain and preview the content for your website in Markdown files. (Will delete soon)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. (Will delete soon)
+
+We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robotics (NA 568).
 
 ### Markdown
 
