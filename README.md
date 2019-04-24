@@ -18,7 +18,7 @@ We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robot
 
 Our project aims to recreate the idea of incorporating semantic and geometric data association in a joint optimization framework as proposed by [Bowman et al.](https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf)
 
-For more details on our implementation, you can check [here](lost_bumblebee_project_proposal) for the proposal and [here](lost_bumblebee_final_report) for the final report.
+For more details on our implementation, you can check [here](lost_bumblebee_project_proposal.pdf) for the proposal and [here](lost_bumblebee_final_report.pdf) for the final report.
 
 ### Dependencies
 The project is split up into various subfolders, each with a corresponding README which further elaborates all necessary dependencies.
