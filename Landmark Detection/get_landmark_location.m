@@ -26,7 +26,7 @@ for image_num=0:199
         end
     end
     if count==0
-        landmarks = csvread(['Mask_RCNN/output_data/',num2str(image_num),'.csv']);
+        landmarks = csvread(['../Mask_RCNN/output_data/',num2str(image_num),'.csv']);
         XYZ = [];
         for i=1:size(landmarks,1)
             u = mean(landmarks(i,2),landmarks(i,4));
