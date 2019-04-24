@@ -7,6 +7,8 @@
     ```bash
     python setup.py install
     ``` 
+    Note, may have to use ```sudo python setup.py install```
+    
 3. Download pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases).
 4. Install `pycocotools` from one of these repos. They are forks of the original pycocotools with fixes for Python3 and Windows (the official repo doesn't seem to be active anymore).
 
