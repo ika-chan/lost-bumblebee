@@ -1,7 +1,5 @@
 ## Welcome to our project page!
 
-You can use the [editor on GitHub](https://github.com/ika-chan/lost-bumblebee/edit/master/README.md) to maintain and preview the content for your website in Markdown files. (Will delete soon)
-
 We are Lost Bumblebee (Team No. 4) and this is our project page for Mobile Robotics (NA 568).
 
 ![Our spirit animal](Webpage/B_contender.png)
@@ -23,8 +21,7 @@ Our project aims to recreate the idea of incorporating semantic and geometric da
 For more details on our implementation, you can check [here]() for the proposal and [here]() for the final report.
 
 ### Dependencies
-This project makes use of the following software packages:
-
+The project is split up into various subfolders, each with a corresponding README which further elaborates all necessary dependencies.
 
 ### Step-by-step Instructions
 1. Run Monocular Visual Odometry following instructions [here](Monocular%20Visual%20Odometry/README_MVO.md).
