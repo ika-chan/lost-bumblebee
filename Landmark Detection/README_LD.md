@@ -15,7 +15,9 @@
     * Linux: https://github.com/waleedka/coco
     * Windows: https://github.com/philferriere/cocoapi.
     You must have the Visual C++ 2015 build tools on your path (see the repo for additional details)
+5. For Linux installing, frequent problems can be seen in the link:
 
+    * https://github.com/matterport/Mask_RCNN/issues/6
 # Get bounding box with Mask RCNN (Mask_RCNN folder)
 1. Run to get bounding box data. The output is in output_data.
    ```bash
