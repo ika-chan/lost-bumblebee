@@ -1,4 +1,4 @@
-# Set up the Mask RCNN environment (under Landmark Detection/Mask_RCNN folder)
+# Set up the Mask RCNN environment (Mask_RCNN folder)
 1. Install dependencies
    ```bash
    pip install -r requirements.txt
@@ -14,7 +14,7 @@
     * Windows: https://github.com/philferriere/cocoapi.
     You must have the Visual C++ 2015 build tools on your path (see the repo for additional details)
 
-# Get bounding box with Mask RCNN (under Landmark Detection/Mask_RCNN folder)
+# Get bounding box with Mask RCNN (Mask_RCNN folder)
 1. Run to get bounding box data. The output is in output_data.
    ```bash
    python mrcnn_data.py
